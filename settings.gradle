@@ -1,0 +1,2 @@
+include 'NoteApp', ':HearRate'
+rootProject.name='AndroidSensorBasedCourse'
